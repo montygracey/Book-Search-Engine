@@ -93,10 +93,6 @@ This project demonstrates the process of converting a RESTful API to a GraphQL A
 5. Click "Delete this Book!" to remove a book from your saved list
 
 
-##  License
-
-This project is licensed under the terms of the MIT license.
-
 ##  Acknowledgments
 
 - Google Books API
